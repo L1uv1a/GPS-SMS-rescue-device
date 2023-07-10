@@ -13,7 +13,7 @@ Although my main part in this project is code and team leader, yet the most anno
  
 # Technology
 Nothing fancy just
-- Adruino and microcontroller
+- Arduino and microcontroller
 - PCB
 - Soldering components
 - USB charging
@@ -30,7 +30,10 @@ Nothing fancy just
 - The seventh problem is the PCB itself, the company we choose make us kinda poor quality one.
 - The eighth problem is money. Yes! Money! Different from code only or programming project, our project is a fully function device. The prototype making has cost us 2.000.000 dong (12000 yen) (and now even more).
 - The nineth problem is that, this is the first time we make a complete device (not just code or simulation), our member have no experience, so that no one understand the best way to do it.
-- And even more small problems yet if I list in here it will be too long. 
+- And even more small problems yet if I list in here it will be too long.
+
+# How to build
+All you need is change your phone number in code, then import the code to the arduino, use the appropriate energy supplies.
 
 # P/S
 At the moment, the whole device has burned down, so we have no better way to show how it works and its function or even picture. We will update as soon as posible. 
