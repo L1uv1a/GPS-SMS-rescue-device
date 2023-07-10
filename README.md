@@ -14,6 +14,8 @@ Although my main part in this project is code and team leader, yet the most anno
 # Technology
 Nothing fancy just
 - Adruino and microcontroller
+- PCB
+- Soldering components
 - USB charging
 - 2G (SMS and Call)
 - GPS
