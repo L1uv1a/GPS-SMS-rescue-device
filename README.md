@@ -21,7 +21,11 @@ Nothing fancy just
 - The second challenge is soldering components, we have most of its done, until the device for soldering too strong for SIM part, so it destroyed the SIM part.
 - The third challenge is bad component. Our SIM IC firmware is fake, so we have to change it completely.
 - The forth problem is GPS, it cannot recieve location when you in house.
-- The fifth problem is that, this is the first time we make a complete device (not just code or simulation), our member have no experience, so that no one understand the best way to do it.
+- The fifth problem is PCB, design it was such a hard job. Even when you make the PCB, you only have 2 choices. One is doing it by ourself, it will cost less money but you have to deal with chemicals, acid, high heat,... . One the other hand, you can send the PCB design to a company, so they would make the PCB for you. The downside was you have to wait for days (even weeks) and it expensive.
+- The seventh problem is the PCB itself, the company we choose make us kinda poor quality one.
+- The eighth problem is money. Yes! Money! Different from code only or programming project, our project is a fully function device. The prototype making has cost us 2.000.000 dong (12000 yen) (and now even more).
+- The nineth problem is that, this is the first time we make a complete device (not just code or simulation), our member have no experience, so that no one understand the best way to do it.
+- And even more small problems yet if we list in here it will be too long. 
 
 # P/S
 At the moment, the whole device has burned down, so we have no better way to show how it works and its function or even picture. We will update as soon as posible. 
