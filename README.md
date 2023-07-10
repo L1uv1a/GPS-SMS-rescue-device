@@ -16,7 +16,7 @@ Nothing fancy just
 - I2C
 
 # Challenge
-- The first one is power - energy suplies. Because of that our second prototype has been burned down and we are ordering new part, so we do not have demo nor picture yet. (Don't worry, it has work, it was just burned down because we change battery).
+- The first one is power - energy suplies. Because of that our second prototype has been burned down and we are ordering new part, so we do not have demo nor picture yet. (Don't worry, it has work, it was just burned down because we change battery - the new battery was too strong).
 - The second challenge is soldering components, we have most of its done, until the device for soldering too strong for SIM part, so it destroyed the SIM part.
 - The third challenge is bad component. Our SIM IC firmware is fake, so we have to change it completely.
 - The forth problem is GPS, it cannot recieve location when you in house.
