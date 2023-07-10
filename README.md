@@ -12,6 +12,8 @@ Although my main part in this project is code, yet the most annoying problems ar
  
 # Technology
 Nothing fancy just
+- Adruino and microcontroller
+- USB charging
 - 2G (SMS and Call)
 - GPS
 - I2C
