@@ -21,3 +21,6 @@ Nothing fancy just
 - The third challenge is bad component. Our SIM IC firmware is fake, so we have to change it completely.
 - The forth problem is GPS, it cannot recieve location when you in house.
 - The fifth problem is that, this is the first time we make a complete device (not just code or simulation), our member have no experience, so that no one understand the best way to do it.
+
+# P/S
+At the moment, the whole device has burned down, so we have no better way to show how it works and its function or even picture. We will update as soon as posible. 
