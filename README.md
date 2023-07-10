@@ -33,7 +33,7 @@ Nothing fancy just
 - And even more small problems yet if I list in here it will be too long.
 
 # How to build
-All you need is change your phone number in code, then import the code to the arduino, use the appropriate energy supplies.
+All you need is change your phone number in code, then import the code to the arduino, use the appropriate energy supplies. If you want too make the whole devive, then you have to make the PCB and then soldering the components.
 
 # P/S
 At the moment, the whole device has burned down, so we have no better way to show how it works and its function or even picture. We will update as soon as posible. 
