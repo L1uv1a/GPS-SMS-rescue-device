@@ -10,6 +10,7 @@ Although my main part in this project is code, yet the most annoying problems ar
 
 # Image
 This is what is suppose to look like:
+![My Image](GPS-SMS-rescue-device/PCB 3D.JPG)
 
  
 # Technology
