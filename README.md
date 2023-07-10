@@ -3,6 +3,7 @@
 # Rescue device by using GPS and SMS
 
 This is one of my classes’s project. Although this is a project for a certain subject, my teacher let us do whatever we want as long as we using a communication method. Therefore this subject has no restrictions.
+If you are lost, you can send your GPS location (just by press a button) to a phone number, so they can rescue you!
 
 # My work
 This is a team project, we have done it in 2 months.
