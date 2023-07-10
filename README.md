@@ -8,6 +8,9 @@ This is one of my classes’s project. Although this is a project for a certain 
 This is a team project, we have done it in 2 months.
 Although my main part in this project is code, yet the most annoying problems are in electronics parts. So, I just kinda did both, code and electronics.
 
+# Image
+This is what is suppose to look like:
+![My Image](PCB 3D.jpg)
  
 # Technology
 Nothing fancy just
