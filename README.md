@@ -15,7 +15,8 @@ This was what the device's circuit should look like!
 ![PCB real flip](https://github.com/L1uv1a/GPS-SMS-rescue-device/assets/132589125/4035cf09-5ab0-4aac-8a18-fb554da0d8e6)
 
 However, it was burned. From a complicated, high-level project, we had no choice but to use whatever left, became a simple project with 3 modules, a button, and a few wires.
-
+Here it's what left. With this prototype, we can only test at fuctioning level (code and logic) but not as device level (energy consumption, size,...)
+![Board](https://github.com/L1uv1a/GPS-SMS-rescue-device/assets/132589125/d5722c64-9fde-47c9-ac74-ce0798fd5b08)
 
 # My work
 This is a team project, we have done it in 2 months.
