@@ -41,6 +41,7 @@ Nothing fancy just
 - The seventh problem is the PCB itself, the company we choose make us kinda poor quality one.
 - The eighth problem is money. Yes! Money! Different from code only or programming project, our project is a fully function device. The prototype making has cost us 2.000.000 dong (12000 yen) (and now even more).
 - The nineth problem is that, this is the first time we make a complete device (not just code or simulation), our member have no experience, so that no one understand the best way to do it.
+- The tenth problem is satellites. In order to receive your GPS location, you need at least 4 satellites to have exact location. Therefore, sometime you cannot receive your location at all.
 - And even more small problems yet if I list in here it will be too long.
 
 # How to build
