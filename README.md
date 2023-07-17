@@ -6,7 +6,10 @@ This is one of my classes’s project. Although this is a project for a certain 
 # Function: 
 If you are lost, you can send your GPS location (just by press a button) to a phone number, so they can rescue you!
 
+This was what the device's circuit should look like!
 ![PCB real flip](https://github.com/L1uv1a/GPS-SMS-rescue-device/assets/132589125/4035cf09-5ab0-4aac-8a18-fb554da0d8e6)
+
+However, it was burned. From a complicated, high-level project, we had no choice but to use whatever left, became a simple project with 3 modules, a button, and a few wires.
 
 
 # My work
@@ -22,7 +25,6 @@ Nothing fancy just
 - USB charging
 - 2G (SMS and Call)
 - GPS
-- I2C
 
 # Challenge
 - The first one is power - energy suplies. Because of that our second prototype has been burned down and we are ordering new part, so we do not have demo nor picture yet. (Don't worry, it has work, it was just burned down because we change battery - the new battery was too strong).
@@ -37,6 +39,10 @@ Nothing fancy just
 
 # How to build
 All you need is change your phone number in code, then import the code to the arduino, use the appropriate energy supplies. If you want to make the whole devive, then you have to make the PCB and then soldering the components.
+
+# How to use
+It's really long, so here is the video.
+Link: https://drive.google.com/file/d/1xSD7UWpj91eZNVPeuZxQZ10y7QgZRnc9/view?usp=sharing
 
 # P/S
 At the moment, the whole device has burned down, so we have no better way to show how it works and its function or even picture. We will update as soon as posible. 
