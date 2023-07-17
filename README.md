@@ -3,8 +3,13 @@
 # Rescue device by using GPS and SMS
 
 This is one of my classes’s project. Although this is a project for a certain subject, my teacher let us do whatever we want as long as we using a communication method. Therefore this subject has no restrictions.
-# Function: 
+# Functionalities: 
 If you are lost, you can send your GPS location (just by press a button) to a phone number, so they can rescue you!
+With just a few simple change in code, it can have other functionalities, such as:
+- Pet (cats and dogs) finder.
+- The device that helps you escape awkward moment (when you want to end a conversation, just press the button so you can mimic the actions of someone calling you and make excuse).
+- ...
+
 
 This was what the device's circuit should look like!
 ![PCB real flip](https://github.com/L1uv1a/GPS-SMS-rescue-device/assets/132589125/4035cf09-5ab0-4aac-8a18-fb554da0d8e6)
@@ -45,4 +50,5 @@ It's really long, so here is the video.
 Link: https://drive.google.com/file/d/1xSD7UWpj91eZNVPeuZxQZ10y7QgZRnc9/view?usp=sharing
 
 # P/S
-At the moment, the whole device has burned down, so we have no better way to show how it works and its function or even picture. We will update as soon as posible. 
+At the moment, the whole device has burned down, so we have no better way to show how it works and its function or even picture. We will update as soon as posible.
+This project is more like a idea/testing rather than a complete device.
