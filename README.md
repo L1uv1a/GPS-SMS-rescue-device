@@ -6,6 +6,9 @@ This is one of my classes’s project. Although this is a project for a certain 
 # Function: 
 If you are lost, you can send your GPS location (just by press a button) to a phone number, so they can rescue you!
 
+![PCB real flip](https://github.com/L1uv1a/GPS-SMS-rescue-device/assets/132589125/4035cf09-5ab0-4aac-8a18-fb554da0d8e6)
+
+
 # My work
 This is a team project, we have done it in 2 months.
 Although my main part in this project is code and team leader, yet the most annoying problems are in electronics parts. So, I just kinda did both, code and electronics.
